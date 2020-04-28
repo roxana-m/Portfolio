@@ -1,0 +1,83 @@
+body{
+    background-color: #1d1d1d;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: "Bebas Neue", "Ostrich Sans", "Oswald", sans-serif;
+    letter-spacing: 0.2em;
+    color: white;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+
+.presentation {
+    margin-top: 15%;
+    margin-left: 5%;
+}
+
+hr {
+    width: 80%;
+    margin-left: 0rem;
+    border-width: 0.1px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+h2 {
+    font-family: "Open Sans", "Proxima Nova ", "Segoe UI", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    font-size: 24px;
+    color: white;
+    font-weight: 420;
+    display: inline;
+}
+
+h3 {
+    font-family: "Open Sans", "Proxima Nova ", "Segoe UI", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    font-size: 18px;
+    color: white;
+    font-weight: 350;
+}
+
+h4 {
+    font-size: 45px;
+    font-family: "Bebas Neue", "Ostrich Sans", "Oswald", sans-serif;
+    letter-spacing: 0.2em;
+    color: white;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+
+h5 {
+    font-family: "Open Sans", "Proxima Nova ", "Segoe UI", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    font-size: 20px;
+    color: white;
+    font-weight: 100;
+    display: inline;
+}
+
+.portfolio {
+    margin-top: 25%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.decode {
+    background-color: #05381D;
+    padding: 25px;
+    margin-top: 30px;
+    
+}
+
+.logo_decode {
+    background-color: white;
+    
+}
+
+img {
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+}

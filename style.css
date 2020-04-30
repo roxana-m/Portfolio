@@ -65,19 +65,15 @@ h5 {
 }
 
 .decode {
-    background-color: #05381D;
+    background-color: #084A2C;
     padding: 25px;
     margin-top: 30px;
-    
+    align-content: center;
 }
 
-.logo_decode {
-    background-color: white;
-    
-}
-
-img {
-    margin: 10px;
-    display: inline-block;
-    vertical-align: top;
+.dsprint {
+    background-color: #A777B6;
+    padding: 25px;
+    margin-top: 30px;
+    align-content: center;
 }
